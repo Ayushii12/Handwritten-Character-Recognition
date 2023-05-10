@@ -1,4 +1,4 @@
-# Handwritten_Character_Recognition
+# Handwritten Character Recognition
 
 Recognition of handwritten characters is crucial for enhancing human-computer interaction. 
 Due to the vagueness and unevenness of each person's writing styles and strokes, the task could be difficult. 
