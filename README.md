@@ -13,7 +13,7 @@ The model has been validated for english as well as devanagari scripts.
 Dataset put-to-use for english is ‘EMNIST_ByClass’ [1] and for devanagari is ‘devanagari handwritten character dataset - DHCD’ [2]. 
 The model achieved 87.20% accuracy for EMNIST_ByClass and 98.19% accuracy for DHCD dataset.
 
-***Abstract*** <br>
+***Dataset*** <br>
 [1] Hindi Devnagari <br>
 Train Dataset: https://drive.google.com/file/d/1CF_yZE9eymS0smvs0zU0XPq1chQoCUcf/view?usp=share_link <br>
 Test Dataset: https://drive.google.com/file/d/1TdjvPsPXvELJx70y16j2_6dnOGSthbtS/view?usp=share_link <br>
