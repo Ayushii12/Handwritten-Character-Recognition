@@ -15,12 +15,12 @@ The model achieved 87.20% accuracy for EMNIST_ByClass and 98.19% accuracy for DH
 
 <h2> Dataset </h2>
 <h4> 1. Hindi Devnagari </h4>
-Train Dataset: https://drive.google.com/file/d/1CF_yZE9eymS0smvs0zU0XPq1chQoCUcf/view?usp=share_link <br>
-Test Dataset: https://drive.google.com/file/d/1TdjvPsPXvELJx70y16j2_6dnOGSthbtS/view?usp=share_link <br>
+Train Dataset: https://drive.google.com/file/d/1egHJ3E6ivL5355OVJypYmAGvYATQyYHL/view?usp=sharing <br>
+Test Dataset: https://drive.google.com/file/d/1N7R-S5B9RMdUYa0sWiIgRMScrcy9lb_B/view?usp=sharing <br>
 
 <h4> 2. EMNIST Byclass </h4>
-Train Dataset: https://drive.google.com/file/d/1lG7r9hGCecHS0lzb-k9j8m1MwwnBnAHo/view?usp=share_link <br>
-Test Dataset: https://drive.google.com/file/d/1kYAHb25BD9QDEYVDymrBGLwOTL1Z4PQZ/view?usp=share_link <br>
+Train Dataset: https://drive.google.com/file/d/1kGfJJPWAi6L7sJgFjBiV-qoTkPPDv5-J/view?usp=sharing <br>
+Test Dataset: https://drive.google.com/file/d/1AlnTmYPT_13pkAR7H8gfliMJkbw9gShk/view?usp=sharing <br>
 
 <h2> References </h2>
 [1] G. Cohen, S. Afshar, J. Tapson and A. van Schaik, "EMNIST: Extending MNIST to handwritten letters," 2017 International Joint Conference on Neural Networks (IJCNN), 2017, pp. 2921-2926, doi: 10.1109/IJCNN.2017.7966217. <br>
